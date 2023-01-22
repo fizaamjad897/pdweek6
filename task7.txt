@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int exametime(int ex_hours, int ex_mins, int arr_hours, int arr_mins);
+main()
+ {
+   int ex_hours, ex_mins, arr_hours, int arr_mins;
+
+ }
